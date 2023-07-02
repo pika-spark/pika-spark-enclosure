@@ -9,3 +9,8 @@
   <a href="https://pika-spark.io/"><img src="https://raw.githubusercontent.com/pika-spark/.github/main/logo/logo-pika-spark-bg-white-github.png" width="40%"></a>
 </p>
 
+<p align="center">
+  <img src="docs/images/pika-spark-enclosure_rendering.png" width="70%"></a>
+</p>
+
+
