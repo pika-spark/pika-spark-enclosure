@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/pika-spark-enclosure_rendering.png" width="40%"></a>
+  <img src="docs/images/pika-spark-enclosure_rendering.png" width="70%"></a>
 </p>
 
 
